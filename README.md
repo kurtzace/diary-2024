@@ -1,6 +1,9 @@
 # diary-2024
 
 ### Trainings
+
+[Pluralsight public profile](https://app.pluralsight.com/profile/karanbhandari)
+
 - Java complete reference book - finished 1/2
 
 - Clojure Udemy Course completed [certificate](https://github.com/kurtzace/diary-2024/assets/2136211/c8385984-eb18-4fee-9758-cccf9007dd34)
