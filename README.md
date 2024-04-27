@@ -2,7 +2,7 @@
 
 ### Trainings
 
-[Pluralsight public profile](https://app.pluralsight.com/profile/karanbhandari)
+#### [Pluralsight public profile](https://app.pluralsight.com/profile/karanbhandari)
 
 - Java complete reference book - finished 1/2
 
@@ -33,7 +33,29 @@
   >  Started Terraform - Getting Started
   
   >   Groovy 2: Getting Started
+
+  > Kafka Fundamentals by Axel Sirotta
   
+  > Getting started with Ansible
+  
+  > Kotlin Coroutines
+
+  > How to Add GenAI Capabilities to Your App Code Using Amazon Bedrock
+  
+  > Getting Started with Kotlin
+
+  > Processing data on AWS
 
 
-- Orielly Feb 1st week Clojure, Microservices, Java complete reference [image](https://github.com/kurtzace/diary-2024/assets/2136211/08fd4018-9626-458b-a955-3f3120b427db)
+#### Orielly books
+- Orielly Feb 1st week Clojure, Microservices,
+- Java complete reference in progress [image](https://github.com/kurtzace/diary-2024/assets/2136211/08fd4018-9626-458b-a955-3f3120b427db)
+
+- Practical Micoservices pattern in progress - 27% completed
+- finished 100% of Distributed Serverless Architectures on AWS: Design and Implement Serverless Architectures 
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition - 14% completed
+
+#### Udemy progress
+- Cisco Umbrella 50% done
+- Figma UX - 25% done
+- Clojure - done
