@@ -75,3 +75,35 @@ completed 50% of Kotlin Coroutines
 
 #### ecommerce training
 - [sidehustle / ecommerce](https://github.com/plt156/AlternateSourcesRevenue/issues/4)
+
+#### productivity ai tools
+1. Paid
+- github copilot
+- https://speechelo.com/
+- Leonardo.ai - stetch and generate realistic image, image gen, motion video
+- runwayml.com - paintbrush style - use motion brush to highlight areas which should come to life
+- heygen - tranalate your normal uploaded video - convert to other languages
+- roomai.com - restyle your room -
+- mylens.ai - ai + history with timelines
+- clipdrop.ai - swap - detect face of popular image - replace your face
+
+2. Free to start
+- musicfy.lol  - imitiate music with voice and it will generate real music
+- eleven labs  - sound like someone else
+- misgifs.app - replace some video with your face
+- chat.open.com - create a response like how you do - your clone
+
+3. Daily apps
+localsend (send image/video to nearby any device), spacial touch (control with gestures),
+clever type keybord - chatgpt retype , life tricks, copilot - designer - make image, gen songs
+
+tooly: tools 100, text tools. unit converter
+
+digicard: share contact via qr
+
+camel camel camel - price 
+
+video summarizer - youtube summarizer
+
+- Entertainment
+groovify - analyse similar songs, 
