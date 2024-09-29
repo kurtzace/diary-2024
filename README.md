@@ -76,7 +76,7 @@ completed 50% of Kotlin Coroutines
 #### ecommerce training
 - [sidehustle / ecommerce](https://github.com/plt156/AlternateSourcesRevenue/issues/4)
 
-#### productivity ai tools
+### productivity ai tools
 1. Paid
 - github copilot
 - https://speechelo.com/
