@@ -45,7 +45,17 @@
   > Getting Started with Kotlin
 
   > Processing data on AWS
+  
+  > Building an Enterprise Grade Distributed Online Analytics Platform 42% completed
+  
 
+https://app.pluralsight.com/profile/karanbhandari
+
+completed 50% of Kotlin Coroutines
+,completed 72% of Kotlin Fundamentals
+,Completed Using Hooks in React 18
+,Completed Managing State in React 18
+,Completed LangChain Development
 
 #### Orielly books
 - Orielly Feb 1st week Clojure, Microservices,
@@ -54,8 +64,14 @@
 - Practical Micoservices pattern in progress - 27% completed
 - finished 100% of Distributed Serverless Architectures on AWS: Design and Implement Serverless Architectures 
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition - 14% completed
+- O'reilly React and React Native - Fifth Edition By Mikhail Sakhniuk, Adam Boduch 40% completed
+
 
 #### Udemy progress
 - Cisco Umbrella 50% done
 - Figma UX - 25% done
 - Clojure - done
+
+
+#### ecommerce training
+- [sidehustle / ecommerce](https://github.com/plt156/AlternateSourcesRevenue/issues/4)
