@@ -106,4 +106,10 @@ camel camel camel - price
 video summarizer - youtube summarizer
 
 - Entertainment
-groovify - analyse similar songs, 
+groovify - analyse similar songs,
+
+
+### Products Crafted by my wife
+[Oct24 CANDLES.pdf.pdf](https://github.com/user-attachments/files/17229158/Oct24.CANDLES.pdf.pdf)
+[Coasters.pdf.pdf](https://github.com/user-attachments/files/17229159/Coasters.pdf.pdf)
+[Edibles.pdf.pdf](https://github.com/user-attachments/files/17229160/Edibles.pdf.pdf)
