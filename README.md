@@ -110,6 +110,19 @@ groovify - analyse similar songs,
 
 
 ### Products Crafted by my wife
+Wife is running a  startup from home: Feel free to support her business for Diwali Gifts/Edibles:
+
+**Diwali Orders Now Open!**
+Celebrate the Festival of Lights with Pretty Little Things! 
+We’re excited to announce that our exclusive Diwali Collection is now available for pre-order!
+
+Indulge in our delightful range of edibles and non-edibles – perfect for gifting or adding a festive sparkle to your celebrations.
+
+HURRY!!!! Place your orders now to ensure timely delivery and make this Diwali extra special with our handcrafted creations! 
+
+[DM us for more details or to place your orders!](https://www.instagram.com/prettylittlethings.24/), [Whatsapp](https://wa.me/917204071879), or relish [Prime delivery via Amazon](https://bit.ly/amazonplt)
+
+Product Catalogues
 - [Oct24 CANDLES.pdf.pdf](https://github.com/user-attachments/files/17229158/Oct24.CANDLES.pdf.pdf)
 - [Edibles.pdf.pdf](https://github.com/user-attachments/files/17229160/Edibles.pdf.pdf)
 - [COASTERS.pdf](https://github.com/user-attachments/files/17229357/COASTERS.pdf)
