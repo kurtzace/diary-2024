@@ -108,6 +108,18 @@ video summarizer - youtube summarizer
 - Entertainment
 groovify - analyse similar songs,
 
+4. Office
+- Create great presentations: https://gamma.app/
+- Chat with your documents: https://www.chatpdf.com/?via=marina
+- Create an AI version of yourself: https://chatgpt.com/
+- Research any topic in seconds: https://www.perplexity.ai/
+- Turn your long videos into shorts: https://www.opus.pro/?via=7925d2
+- Create your AI avatar: https://heygen.com/?sid=rewardful&via...
+- Next level AI translator: https://www.deepl.com/
+- Edit your videos much faster: https://get.descript.com/fa2pjk0ylj0d
+- Generate your AI voice and more: https://www.captions.ai/
+- website maker - durable (marina30 is promo)
+
 
 ### Products Crafted by my wife
 Wife is running a  startup from home: Feel free to support her business for Diwali Gifts/Edibles:
